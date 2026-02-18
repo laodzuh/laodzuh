@@ -23,7 +23,7 @@ Outside of work, yoga has been one of the most transformative forces in my life.
 - I typically have multiple additional side projects on-going that I create a more custom and restrained schedule for, which I will provide definition on an as-needed-basis.
 - I work remotely but enjoy short, infrequent, optional in-person working sessions. Typically means less than a full working session, once a week or less, and having to switch from in-person to remote shouldn't kill the session.
 - I prefer async, written communication by default. Good async communication is defined deeper below.
-- I expect a few live syncs per week for any project I am on. Can happen with text, voice, or in-person, and the logistics and content can be driven by the needs of the project and team. A minimium would be 1 per week, just to stay and feel connected to each other.
+- I expect a few live syncs per week for any project I am on. A minimium would be 1 x per week, just to stay and feel connected to each other. Good sync communication is also defined deeper below.
 - The fastest way to reach me on a project is always Slack.
 
 ## What I Expect of Myself & You
