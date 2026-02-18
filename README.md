@@ -16,6 +16,7 @@ Outside of work, yoga has been one of the most transformative forces in my life.
 - **I learn while I build.** I am a life-long learner and I really enjoy when projects push me into uncharted territory where I am forced to learn something new. I consider myself a slow but deep learner - you may need to tell me the same thing multiple times before I understand it, but once that understanding happens, it is a lock.
 - **I protect focus time.** Deep work is where the real output happens. I try to minimize and batch meetings and keep large blocks of time open for building.
 - **I document as I go.** I value clear documentation because it respects everyone's time, including future-me's, but also understand that documentation creates maintenance liability. Clear documentation looks like just-enough, just in-time, straightforward, and no-nonsense.
+- **GOOD/FAST/CHEAP.** This is a rule I apply to everything I do. I pick 2 of the 3 and execute. Anyone that expects all three, all the time, are not being honest or realistic and won't be a good fit with me.
 
 ## My Working Norms
 
