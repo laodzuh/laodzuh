@@ -2,7 +2,7 @@
 
 ## Who I Am
 
-I'm a builder at heart. I get genuine joy from making things work - shipping something real, solving a hard problem, watching an idea turn into a product that's used by an audience of 1 & beyond. I also know that most projects fail, and I'm at peace with that. The ones that land often look like a series of fails before the success comes along. The ones that eventually land make the misses worth it.
+I'm a builder at heart. I get genuine joy from making things work - shipping something real, solving a hard problem, watching an idea turn into a product that's used by an audience of 1 & beyond. I also know that most projects fail, and I'm at peace with that. The ones that land often look like a series of fails before the success comes along.
 
 Professionally, I live at the intersection of AI and product. My background is in insurance technology, document processing, and prompt engineering, but my interests run wider than any one domain. I care about building tools that solve real problems for real people - especially in markets that tend to get overlooked. I started in insurance and stayed for over a decade for that very reason.
 
