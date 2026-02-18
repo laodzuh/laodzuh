@@ -55,9 +55,10 @@ These are the standards and values I hold for myself and the people I work with:
 ### Sync (Calls, Meetings, Pairing)
 
 - I value sync time for things that benefit from real-time back-and-forth: brainstorming, debugging together, alignment on ambiguous decisions, alignment on soft stuff like vision, mission, values, and roadmapping.
-- Come with context. A 2-minute Slack message before a meeting ("Here's what I want to discuss") makes the meeting 10x more productive.
+- Come with context. Send an agenda ahead of time, it makes the meeting much more productive.
 - I'm not a fan of status-update meetings. If it can be a message, it should be a message. However, if we do not have good async communication on a team, we will supplement with scheduled syncs until remedied.
-- When we do meet, I'll be present and engaged — and I hope for the same in return.
+- When we do meet, I'll be present and engaged - and I expect for the same in return.
+- Syncs can still happen over slack with written communication for some small teams that are very clear and consistent with their communication.
 
 ---
 
